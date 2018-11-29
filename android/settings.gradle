@@ -1,0 +1,3 @@
+rootProject.name = 'ML3'
+
+include ':app'
